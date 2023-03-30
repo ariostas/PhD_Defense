@@ -1,0 +1,5273 @@
+[
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "Title 0",
+                "type": "complete_loop",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/title_slide/1080p60/sections/TitleSlide_0000.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 12.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0000.mp4",
+                "in_project_thumbnail": "thumb_0000.jpg",
+                "in_project_id": 0,
+                "parent_id": 0
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 1,
+                "name": "Title 1",
+                "type": "skip",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/title_slide/1080p60/sections/TitleSlide_0001.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0001.mp4",
+                "in_project_thumbnail": "thumb_0001.jpg",
+                "in_project_id": 1,
+                "parent_id": 1
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "Intro 0",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/intro_question/1080p60/sections/IntroQuestion_0000.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0002.mp4",
+                "in_project_thumbnail": "thumb_0002.jpg",
+                "in_project_id": 2,
+                "parent_id": 2
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 1,
+                "name": "Intro 1",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/intro_question/1080p60/sections/IntroQuestion_0001.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0003.mp4",
+                "in_project_thumbnail": "thumb_0003.jpg",
+                "in_project_id": 3,
+                "parent_id": 3
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 2,
+                "name": "Intro 2",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/intro_question/1080p60/sections/IntroQuestion_0002.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0004.mp4",
+                "in_project_thumbnail": "thumb_0004.jpg",
+                "in_project_id": 4,
+                "parent_id": 4
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 3,
+                "name": "Intro 3",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/intro_question/1080p60/sections/IntroQuestion_0003.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0005.mp4",
+                "in_project_thumbnail": "thumb_0005.jpg",
+                "in_project_id": 5,
+                "parent_id": 5
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 4,
+                "name": "Intro 4",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/intro_question/1080p60/sections/IntroQuestion_0004.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0006.mp4",
+                "in_project_thumbnail": "thumb_0006.jpg",
+                "in_project_id": 6,
+                "parent_id": 6
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 5,
+                "name": "Intro 5",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/intro_question/1080p60/sections/IntroQuestion_0005.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0007.mp4",
+                "in_project_thumbnail": "thumb_0007.jpg",
+                "in_project_id": 7,
+                "parent_id": 7
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 6,
+                "name": "Intro 6",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/intro_question/1080p60/sections/IntroQuestion_0006.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0008.mp4",
+                "in_project_thumbnail": "thumb_0008.jpg",
+                "in_project_id": 8,
+                "parent_id": 8
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 7,
+                "name": "Intro 7",
+                "type": "skip",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/intro_question/1080p60/sections/IntroQuestion_0007.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0009.mp4",
+                "in_project_thumbnail": "thumb_0009.jpg",
+                "in_project_id": 9,
+                "parent_id": 9
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "Outline 0",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/outline/1080p60/sections/Outline_0000.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 3.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0010.mp4",
+                "in_project_thumbnail": "thumb_0010.jpg",
+                "in_project_id": 10,
+                "parent_id": 10
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 1,
+                "name": "Outline 1",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/outline/1080p60/sections/Outline_0001.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.1,
+                "project_name": "B Exam",
+                "in_project_video": "video_0011.mp4",
+                "in_project_thumbnail": "thumb_0011.jpg",
+                "in_project_id": 11,
+                "parent_id": 11
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 2,
+                "name": "Outline 2",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/outline/1080p60/sections/Outline_0002.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.1,
+                "project_name": "B Exam",
+                "in_project_video": "video_0012.mp4",
+                "in_project_thumbnail": "thumb_0012.jpg",
+                "in_project_id": 12,
+                "parent_id": 12
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 3,
+                "name": "Outline 3",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/outline/1080p60/sections/Outline_0003.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.1,
+                "project_name": "B Exam",
+                "in_project_video": "video_0013.mp4",
+                "in_project_thumbnail": "thumb_0013.jpg",
+                "in_project_id": 13,
+                "parent_id": 13
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 4,
+                "name": "Outline 4",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/outline/1080p60/sections/Outline_0004.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 3.1,
+                "project_name": "B Exam",
+                "in_project_video": "video_0014.mp4",
+                "in_project_thumbnail": "thumb_0014.jpg",
+                "in_project_id": 14,
+                "parent_id": 14
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 5,
+                "name": "Outline 5",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/outline/1080p60/sections/Outline_0005.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.1,
+                "project_name": "B Exam",
+                "in_project_video": "video_0015.mp4",
+                "in_project_thumbnail": "thumb_0015.jpg",
+                "in_project_id": 15,
+                "parent_id": 15
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 6,
+                "name": "Outline 6",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/outline/1080p60/sections/Outline_0006.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.1,
+                "project_name": "B Exam",
+                "in_project_video": "video_0016.mp4",
+                "in_project_thumbnail": "thumb_0016.jpg",
+                "in_project_id": 16,
+                "parent_id": 16
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 7,
+                "name": "Outline 7",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/outline/1080p60/sections/Outline_0007.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.1,
+                "project_name": "B Exam",
+                "in_project_video": "video_0017.mp4",
+                "in_project_thumbnail": "thumb_0017.jpg",
+                "in_project_id": 17,
+                "parent_id": 17
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 8,
+                "name": "Outline 8",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/outline/1080p60/sections/Outline_0008.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0018.mp4",
+                "in_project_thumbnail": "thumb_0018.jpg",
+                "in_project_id": 18,
+                "parent_id": 18
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 9,
+                "name": "Outline 9",
+                "type": "skip",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/outline/1080p60/sections/Outline_0009.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0019.mp4",
+                "in_project_thumbnail": "thumb_0019.jpg",
+                "in_project_id": 19,
+                "parent_id": 19
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "What is ST 0",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/what_is_st/1080p60/sections/WhatIsST_0000.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0020.mp4",
+                "in_project_thumbnail": "thumb_0020.jpg",
+                "in_project_id": 20,
+                "parent_id": 20
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 1,
+                "name": "What is ST 1",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/what_is_st/1080p60/sections/WhatIsST_0001.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0021.mp4",
+                "in_project_thumbnail": "thumb_0021.jpg",
+                "in_project_id": 21,
+                "parent_id": 21
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 2,
+                "name": "What is ST 2",
+                "type": "skip",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/what_is_st/1080p60/sections/WhatIsST_0002.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 3.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0022.mp4",
+                "in_project_thumbnail": "thumb_0022.jpg",
+                "in_project_id": 22,
+                "parent_id": 22
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 3,
+                "name": "What is ST 3",
+                "type": "complete_loop",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/what_is_st/1080p60/sections/WhatIsST_0003.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0023.mp4",
+                "in_project_thumbnail": "thumb_0023.jpg",
+                "in_project_id": 23,
+                "parent_id": 23
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 4,
+                "name": "What is ST 4",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/what_is_st/1080p60/sections/WhatIsST_0004.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0024.mp4",
+                "in_project_thumbnail": "thumb_0024.jpg",
+                "in_project_id": 24,
+                "parent_id": 24
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 5,
+                "name": "What is ST 5",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/what_is_st/1080p60/sections/WhatIsST_0005.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0025.mp4",
+                "in_project_thumbnail": "thumb_0025.jpg",
+                "in_project_id": 25,
+                "parent_id": 25
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 6,
+                "name": "What is ST 6",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/what_is_st/1080p60/sections/WhatIsST_0006.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0026.mp4",
+                "in_project_thumbnail": "thumb_0026.jpg",
+                "in_project_id": 26,
+                "parent_id": 26
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 7,
+                "name": "What is ST 7",
+                "type": "skip",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/what_is_st/1080p60/sections/WhatIsST_0007.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0027.mp4",
+                "in_project_thumbnail": "thumb_0027.jpg",
+                "in_project_id": 27,
+                "parent_id": 27
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "Compactifications 1-0",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/compactifications1/1080p60/sections/Compactifications1_0000.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0028.mp4",
+                "in_project_thumbnail": "thumb_0028.jpg",
+                "in_project_id": 28,
+                "parent_id": 28
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 1,
+                "name": "Compactifications 1-1",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/compactifications1/1080p60/sections/Compactifications1_0001.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0029.mp4",
+                "in_project_thumbnail": "thumb_0029.jpg",
+                "in_project_id": 29,
+                "parent_id": 29
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 2,
+                "name": "Compactifications 1-2",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/compactifications1/1080p60/sections/Compactifications1_0002.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0030.mp4",
+                "in_project_thumbnail": "thumb_0030.jpg",
+                "in_project_id": 30,
+                "parent_id": 30
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 3,
+                "name": "Compactifications 1-3",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/compactifications1/1080p60/sections/Compactifications1_0003.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 3.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0031.mp4",
+                "in_project_thumbnail": "thumb_0031.jpg",
+                "in_project_id": 31,
+                "parent_id": 31
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 4,
+                "name": "Compactifications 1-4",
+                "type": "skip",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/compactifications1/1080p60/sections/Compactifications1_0004.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0032.mp4",
+                "in_project_thumbnail": "thumb_0032.jpg",
+                "in_project_id": 32,
+                "parent_id": 32
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 5,
+                "name": "Compactifications 1-5",
+                "type": "complete_loop",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/compactifications1/1080p60/sections/Compactifications1_0005.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0033.mp4",
+                "in_project_thumbnail": "thumb_0033.jpg",
+                "in_project_id": 33,
+                "parent_id": 33
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 6,
+                "name": "Compactifications 1-6",
+                "type": "skip",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/compactifications1/1080p60/sections/Compactifications1_0006.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0034.mp4",
+                "in_project_thumbnail": "thumb_0034.jpg",
+                "in_project_id": 34,
+                "parent_id": 34
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "Compactifications 2-0",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/compactifications2/1080p60/sections/Compactifications2_0000.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0035.mp4",
+                "in_project_thumbnail": "thumb_0035.jpg",
+                "in_project_id": 35,
+                "parent_id": 35
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 1,
+                "name": "Compactifications 2-1",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/compactifications2/1080p60/sections/Compactifications2_0001.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0036.mp4",
+                "in_project_thumbnail": "thumb_0036.jpg",
+                "in_project_id": 36,
+                "parent_id": 36
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 2,
+                "name": "Compactifications 2-2",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/compactifications2/1080p60/sections/Compactifications2_0002.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0037.mp4",
+                "in_project_thumbnail": "thumb_0037.jpg",
+                "in_project_id": 37,
+                "parent_id": 37
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 3,
+                "name": "Compactifications 2-3",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/compactifications2/1080p60/sections/Compactifications2_0003.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0038.mp4",
+                "in_project_thumbnail": "thumb_0038.jpg",
+                "in_project_id": 38,
+                "parent_id": 38
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 4,
+                "name": "Compactifications 2-4",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/compactifications2/1080p60/sections/Compactifications2_0004.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0039.mp4",
+                "in_project_thumbnail": "thumb_0039.jpg",
+                "in_project_id": 39,
+                "parent_id": 39
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 5,
+                "name": "Compactifications 2-5",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/compactifications2/1080p60/sections/Compactifications2_0005.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0040.mp4",
+                "in_project_thumbnail": "thumb_0040.jpg",
+                "in_project_id": 40,
+                "parent_id": 40
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 6,
+                "name": "Compactifications 2-6",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/compactifications2/1080p60/sections/Compactifications2_0006.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0041.mp4",
+                "in_project_thumbnail": "thumb_0041.jpg",
+                "in_project_id": 41,
+                "parent_id": 41
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 7,
+                "name": "Compactifications 2-7",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/compactifications2/1080p60/sections/Compactifications2_0007.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0042.mp4",
+                "in_project_thumbnail": "thumb_0042.jpg",
+                "in_project_id": 42,
+                "parent_id": 42
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 8,
+                "name": "Compactifications 2-8",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/compactifications2/1080p60/sections/Compactifications2_0008.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0043.mp4",
+                "in_project_thumbnail": "thumb_0043.jpg",
+                "in_project_id": 43,
+                "parent_id": 43
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 9,
+                "name": "Compactifications 2-9",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/compactifications2/1080p60/sections/Compactifications2_0009.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 3.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0044.mp4",
+                "in_project_thumbnail": "thumb_0044.jpg",
+                "in_project_id": 44,
+                "parent_id": 44
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 10,
+                "name": "Compactifications 2-10",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/compactifications2/1080p60/sections/Compactifications2_0010.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0045.mp4",
+                "in_project_thumbnail": "thumb_0045.jpg",
+                "in_project_id": 45,
+                "parent_id": 45
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 11,
+                "name": "Compactifications 2-11",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/compactifications2/1080p60/sections/Compactifications2_0011.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0046.mp4",
+                "in_project_thumbnail": "thumb_0046.jpg",
+                "in_project_id": 46,
+                "parent_id": 46
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 12,
+                "name": "Compactifications 2-12",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/compactifications2/1080p60/sections/Compactifications2_0012.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0047.mp4",
+                "in_project_thumbnail": "thumb_0047.jpg",
+                "in_project_id": 47,
+                "parent_id": 47
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 13,
+                "name": "Compactifications 2-13",
+                "type": "skip",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/compactifications2/1080p60/sections/Compactifications2_0013.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0048.mp4",
+                "in_project_thumbnail": "thumb_0048.jpg",
+                "in_project_id": 48,
+                "parent_id": 48
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "CYProperties 0",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/cy_properties/1080p60/sections/CYProperties_0000.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0049.mp4",
+                "in_project_thumbnail": "thumb_0049.jpg",
+                "in_project_id": 49,
+                "parent_id": 49
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 1,
+                "name": "CYProperties 1",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/cy_properties/1080p60/sections/CYProperties_0001.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0050.mp4",
+                "in_project_thumbnail": "thumb_0050.jpg",
+                "in_project_id": 50,
+                "parent_id": 50
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 2,
+                "name": "CYProperties 2",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/cy_properties/1080p60/sections/CYProperties_0002.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0051.mp4",
+                "in_project_thumbnail": "thumb_0051.jpg",
+                "in_project_id": 51,
+                "parent_id": 51
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 3,
+                "name": "CYProperties 3",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/cy_properties/1080p60/sections/CYProperties_0003.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.5,
+                "project_name": "B Exam",
+                "in_project_video": "video_0052.mp4",
+                "in_project_thumbnail": "thumb_0052.jpg",
+                "in_project_id": 52,
+                "parent_id": 52
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 4,
+                "name": "CYProperties 4",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/cy_properties/1080p60/sections/CYProperties_0004.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0053.mp4",
+                "in_project_thumbnail": "thumb_0053.jpg",
+                "in_project_id": 53,
+                "parent_id": 53
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 5,
+                "name": "CYProperties 5",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/cy_properties/1080p60/sections/CYProperties_0005.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 4.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0054.mp4",
+                "in_project_thumbnail": "thumb_0054.jpg",
+                "in_project_id": 54,
+                "parent_id": 54
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 6,
+                "name": "CYProperties 6",
+                "type": "skip",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/cy_properties/1080p60/sections/CYProperties_0006.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0055.mp4",
+                "in_project_thumbnail": "thumb_0055.jpg",
+                "in_project_id": 55,
+                "parent_id": 55
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 7,
+                "name": "CYProperties 7",
+                "type": "complete_loop",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/cy_properties/1080p60/sections/CYProperties_0007.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0056.mp4",
+                "in_project_thumbnail": "thumb_0056.jpg",
+                "in_project_id": 56,
+                "parent_id": 56
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 8,
+                "name": "CYProperties 8",
+                "type": "skip",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/cy_properties/1080p60/sections/CYProperties_0008.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0057.mp4",
+                "in_project_thumbnail": "thumb_0057.jpg",
+                "in_project_id": 57,
+                "parent_id": 57
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 9,
+                "name": "CYProperties 9",
+                "type": "complete_loop",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/cy_properties/1080p60/sections/CYProperties_0009.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0058.mp4",
+                "in_project_thumbnail": "thumb_0058.jpg",
+                "in_project_id": 58,
+                "parent_id": 58
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 10,
+                "name": "CYProperties 10",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/cy_properties/1080p60/sections/CYProperties_0010.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0059.mp4",
+                "in_project_thumbnail": "thumb_0059.jpg",
+                "in_project_id": 59,
+                "parent_id": 59
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 11,
+                "name": "CYProperties 11",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/cy_properties/1080p60/sections/CYProperties_0011.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0060.mp4",
+                "in_project_thumbnail": "thumb_0060.jpg",
+                "in_project_id": 60,
+                "parent_id": 60
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 12,
+                "name": "CYProperties 12",
+                "type": "skip",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/cy_properties/1080p60/sections/CYProperties_0012.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0061.mp4",
+                "in_project_thumbnail": "thumb_0061.jpg",
+                "in_project_id": 61,
+                "parent_id": 61
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "Varieties 0",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/varieties/1080p60/sections/Varieties_0000.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0062.mp4",
+                "in_project_thumbnail": "thumb_0062.jpg",
+                "in_project_id": 62,
+                "parent_id": 62
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 1,
+                "name": "Varieties 1",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/varieties/1080p60/sections/Varieties_0001.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0063.mp4",
+                "in_project_thumbnail": "thumb_0063.jpg",
+                "in_project_id": 63,
+                "parent_id": 63
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 2,
+                "name": "Varieties 2",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/varieties/1080p60/sections/Varieties_0002.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0064.mp4",
+                "in_project_thumbnail": "thumb_0064.jpg",
+                "in_project_id": 64,
+                "parent_id": 64
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 3,
+                "name": "Varieties 3",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/varieties/1080p60/sections/Varieties_0003.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0065.mp4",
+                "in_project_thumbnail": "thumb_0065.jpg",
+                "in_project_id": 65,
+                "parent_id": 65
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 4,
+                "name": "Varieties 4",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/varieties/1080p60/sections/Varieties_0004.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0066.mp4",
+                "in_project_thumbnail": "thumb_0066.jpg",
+                "in_project_id": 66,
+                "parent_id": 66
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 5,
+                "name": "Varieties 5",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/varieties/1080p60/sections/Varieties_0005.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0067.mp4",
+                "in_project_thumbnail": "thumb_0067.jpg",
+                "in_project_id": 67,
+                "parent_id": 67
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 6,
+                "name": "Varieties 6",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/varieties/1080p60/sections/Varieties_0006.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0068.mp4",
+                "in_project_thumbnail": "thumb_0068.jpg",
+                "in_project_id": 68,
+                "parent_id": 68
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 7,
+                "name": "Varieties 7",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/varieties/1080p60/sections/Varieties_0007.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.1,
+                "project_name": "B Exam",
+                "in_project_video": "video_0069.mp4",
+                "in_project_thumbnail": "thumb_0069.jpg",
+                "in_project_id": 69,
+                "parent_id": 69
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 8,
+                "name": "Varieties 8",
+                "type": "skip",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/varieties/1080p60/sections/Varieties_0008.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0070.mp4",
+                "in_project_thumbnail": "thumb_0070.jpg",
+                "in_project_id": 70,
+                "parent_id": 70
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "ToricVarieties 0",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/toric_varieties/1080p60/sections/ToricVarieties_0000.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0071.mp4",
+                "in_project_thumbnail": "thumb_0071.jpg",
+                "in_project_id": 71,
+                "parent_id": 71
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 1,
+                "name": "ToricVarieties 1",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/toric_varieties/1080p60/sections/ToricVarieties_0001.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0072.mp4",
+                "in_project_thumbnail": "thumb_0072.jpg",
+                "in_project_id": 72,
+                "parent_id": 72
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 2,
+                "name": "ToricVarieties 2",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/toric_varieties/1080p60/sections/ToricVarieties_0002.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0073.mp4",
+                "in_project_thumbnail": "thumb_0073.jpg",
+                "in_project_id": 73,
+                "parent_id": 73
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 3,
+                "name": "ToricVarieties 3",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/toric_varieties/1080p60/sections/ToricVarieties_0003.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0074.mp4",
+                "in_project_thumbnail": "thumb_0074.jpg",
+                "in_project_id": 74,
+                "parent_id": 74
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 4,
+                "name": "ToricVarieties 4",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/toric_varieties/1080p60/sections/ToricVarieties_0004.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0075.mp4",
+                "in_project_thumbnail": "thumb_0075.jpg",
+                "in_project_id": 75,
+                "parent_id": 75
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 5,
+                "name": "ToricVarieties 5",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/toric_varieties/1080p60/sections/ToricVarieties_0005.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0076.mp4",
+                "in_project_thumbnail": "thumb_0076.jpg",
+                "in_project_id": 76,
+                "parent_id": 76
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 6,
+                "name": "ToricVarieties 6",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/toric_varieties/1080p60/sections/ToricVarieties_0006.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 3.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0077.mp4",
+                "in_project_thumbnail": "thumb_0077.jpg",
+                "in_project_id": 77,
+                "parent_id": 77
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 7,
+                "name": "ToricVarieties 7",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/toric_varieties/1080p60/sections/ToricVarieties_0007.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0078.mp4",
+                "in_project_thumbnail": "thumb_0078.jpg",
+                "in_project_id": 78,
+                "parent_id": 78
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 8,
+                "name": "ToricVarieties 8",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/toric_varieties/1080p60/sections/ToricVarieties_0008.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0079.mp4",
+                "in_project_thumbnail": "thumb_0079.jpg",
+                "in_project_id": 79,
+                "parent_id": 79
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 9,
+                "name": "ToricVarieties 9",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/toric_varieties/1080p60/sections/ToricVarieties_0009.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0080.mp4",
+                "in_project_thumbnail": "thumb_0080.jpg",
+                "in_project_id": 80,
+                "parent_id": 80
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 10,
+                "name": "ToricVarieties 10",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/toric_varieties/1080p60/sections/ToricVarieties_0010.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0081.mp4",
+                "in_project_thumbnail": "thumb_0081.jpg",
+                "in_project_id": 81,
+                "parent_id": 81
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 11,
+                "name": "ToricVarieties 11",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/toric_varieties/1080p60/sections/ToricVarieties_0011.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0082.mp4",
+                "in_project_thumbnail": "thumb_0082.jpg",
+                "in_project_id": 82,
+                "parent_id": 82
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 12,
+                "name": "ToricVarieties 12",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/toric_varieties/1080p60/sections/ToricVarieties_0012.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0083.mp4",
+                "in_project_thumbnail": "thumb_0083.jpg",
+                "in_project_id": 83,
+                "parent_id": 83
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 13,
+                "name": "ToricVarieties 13",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/toric_varieties/1080p60/sections/ToricVarieties_0013.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0084.mp4",
+                "in_project_thumbnail": "thumb_0084.jpg",
+                "in_project_id": 84,
+                "parent_id": 84
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 14,
+                "name": "ToricVarieties 14",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/toric_varieties/1080p60/sections/ToricVarieties_0014.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0085.mp4",
+                "in_project_thumbnail": "thumb_0085.jpg",
+                "in_project_id": 85,
+                "parent_id": 85
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 15,
+                "name": "ToricVarieties 15",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/toric_varieties/1080p60/sections/ToricVarieties_0015.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0086.mp4",
+                "in_project_thumbnail": "thumb_0086.jpg",
+                "in_project_id": 86,
+                "parent_id": 86
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 16,
+                "name": "ToricVarieties 16",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/toric_varieties/1080p60/sections/ToricVarieties_0016.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 4.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0087.mp4",
+                "in_project_thumbnail": "thumb_0087.jpg",
+                "in_project_id": 87,
+                "parent_id": 87
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 17,
+                "name": "ToricVarieties 17",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/toric_varieties/1080p60/sections/ToricVarieties_0017.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.3,
+                "project_name": "B Exam",
+                "in_project_video": "video_0088.mp4",
+                "in_project_thumbnail": "thumb_0088.jpg",
+                "in_project_id": 88,
+                "parent_id": 88
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 18,
+                "name": "ToricVarieties 18",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/toric_varieties/1080p60/sections/ToricVarieties_0018.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0089.mp4",
+                "in_project_thumbnail": "thumb_0089.jpg",
+                "in_project_id": 89,
+                "parent_id": 89
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 19,
+                "name": "ToricVarieties 19",
+                "type": "skip",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/toric_varieties/1080p60/sections/ToricVarieties_0019.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0090.mp4",
+                "in_project_thumbnail": "thumb_0090.jpg",
+                "in_project_id": 90,
+                "parent_id": 90
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "CYConstruction 0",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/cy_construction/1080p60/sections/CYConstruction_0000.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0091.mp4",
+                "in_project_thumbnail": "thumb_0091.jpg",
+                "in_project_id": 91,
+                "parent_id": 91
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 1,
+                "name": "CYConstruction 1",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/cy_construction/1080p60/sections/CYConstruction_0001.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0092.mp4",
+                "in_project_thumbnail": "thumb_0092.jpg",
+                "in_project_id": 92,
+                "parent_id": 92
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 2,
+                "name": "CYConstruction 2",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/cy_construction/1080p60/sections/CYConstruction_0002.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0093.mp4",
+                "in_project_thumbnail": "thumb_0093.jpg",
+                "in_project_id": 93,
+                "parent_id": 93
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 3,
+                "name": "CYConstruction 3",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/cy_construction/1080p60/sections/CYConstruction_0003.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 3.2,
+                "project_name": "B Exam",
+                "in_project_video": "video_0094.mp4",
+                "in_project_thumbnail": "thumb_0094.jpg",
+                "in_project_id": 94,
+                "parent_id": 94
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 4,
+                "name": "CYConstruction 4",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/cy_construction/1080p60/sections/CYConstruction_0004.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.5,
+                "project_name": "B Exam",
+                "in_project_video": "video_0095.mp4",
+                "in_project_thumbnail": "thumb_0095.jpg",
+                "in_project_id": 95,
+                "parent_id": 95
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 5,
+                "name": "CYConstruction 5",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/cy_construction/1080p60/sections/CYConstruction_0005.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.1,
+                "project_name": "B Exam",
+                "in_project_video": "video_0096.mp4",
+                "in_project_thumbnail": "thumb_0096.jpg",
+                "in_project_id": 96,
+                "parent_id": 96
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 6,
+                "name": "CYConstruction 6",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/cy_construction/1080p60/sections/CYConstruction_0006.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0097.mp4",
+                "in_project_thumbnail": "thumb_0097.jpg",
+                "in_project_id": 97,
+                "parent_id": 97
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 7,
+                "name": "CYConstruction 7",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/cy_construction/1080p60/sections/CYConstruction_0007.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0098.mp4",
+                "in_project_thumbnail": "thumb_0098.jpg",
+                "in_project_id": 98,
+                "parent_id": 98
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 8,
+                "name": "CYConstruction 8",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/cy_construction/1080p60/sections/CYConstruction_0008.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.35,
+                "project_name": "B Exam",
+                "in_project_video": "video_0099.mp4",
+                "in_project_thumbnail": "thumb_0099.jpg",
+                "in_project_id": 99,
+                "parent_id": 99
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 9,
+                "name": "CYConstruction 9",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/cy_construction/1080p60/sections/CYConstruction_0009.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0100.mp4",
+                "in_project_thumbnail": "thumb_0100.jpg",
+                "in_project_id": 100,
+                "parent_id": 100
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 10,
+                "name": "CYConstruction 10",
+                "type": "skip",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/cy_construction/1080p60/sections/CYConstruction_0010.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0101.mp4",
+                "in_project_thumbnail": "thumb_0101.jpg",
+                "in_project_id": 101,
+                "parent_id": 101
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "RTExplanation 0",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/regularity_explanation/1080p60/sections/RTExplanation_0000.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0102.mp4",
+                "in_project_thumbnail": "thumb_0102.jpg",
+                "in_project_id": 102,
+                "parent_id": 102
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 1,
+                "name": "RTExplanation 1",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/regularity_explanation/1080p60/sections/RTExplanation_0001.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 3.45,
+                "project_name": "B Exam",
+                "in_project_video": "video_0103.mp4",
+                "in_project_thumbnail": "thumb_0103.jpg",
+                "in_project_id": 103,
+                "parent_id": 103
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 2,
+                "name": "RTExplanation 2",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/regularity_explanation/1080p60/sections/RTExplanation_0002.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0104.mp4",
+                "in_project_thumbnail": "thumb_0104.jpg",
+                "in_project_id": 104,
+                "parent_id": 104
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 3,
+                "name": "RTExplanation 3",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/regularity_explanation/1080p60/sections/RTExplanation_0003.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 6.5,
+                "project_name": "B Exam",
+                "in_project_video": "video_0105.mp4",
+                "in_project_thumbnail": "thumb_0105.jpg",
+                "in_project_id": 105,
+                "parent_id": 105
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 4,
+                "name": "RTExplanation 4",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/regularity_explanation/1080p60/sections/RTExplanation_0004.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 4.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0106.mp4",
+                "in_project_thumbnail": "thumb_0106.jpg",
+                "in_project_id": 106,
+                "parent_id": 106
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 5,
+                "name": "RTExplanation 5",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/regularity_explanation/1080p60/sections/RTExplanation_0005.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 4.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0107.mp4",
+                "in_project_thumbnail": "thumb_0107.jpg",
+                "in_project_id": 107,
+                "parent_id": 107
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 6,
+                "name": "RTExplanation 6",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/regularity_explanation/1080p60/sections/RTExplanation_0006.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 4.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0108.mp4",
+                "in_project_thumbnail": "thumb_0108.jpg",
+                "in_project_id": 108,
+                "parent_id": 108
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 7,
+                "name": "RTExplanation 7",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/regularity_explanation/1080p60/sections/RTExplanation_0007.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 6.5,
+                "project_name": "B Exam",
+                "in_project_video": "video_0109.mp4",
+                "in_project_thumbnail": "thumb_0109.jpg",
+                "in_project_id": 109,
+                "parent_id": 109
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 8,
+                "name": "RTExplanation 8",
+                "type": "skip",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/regularity_explanation/1080p60/sections/RTExplanation_0008.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0110.mp4",
+                "in_project_thumbnail": "thumb_0110.jpg",
+                "in_project_id": 110,
+                "parent_id": 110
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "FTExplanation 0",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/fineness_explanation/1080p60/sections/FTExplanation_0000.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0111.mp4",
+                "in_project_thumbnail": "thumb_0111.jpg",
+                "in_project_id": 111,
+                "parent_id": 111
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 1,
+                "name": "FTExplanation 1",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/fineness_explanation/1080p60/sections/FTExplanation_0001.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 5.65,
+                "project_name": "B Exam",
+                "in_project_video": "video_0112.mp4",
+                "in_project_thumbnail": "thumb_0112.jpg",
+                "in_project_id": 112,
+                "parent_id": 112
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 2,
+                "name": "FTExplanation 2",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/fineness_explanation/1080p60/sections/FTExplanation_0002.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 3.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0113.mp4",
+                "in_project_thumbnail": "thumb_0113.jpg",
+                "in_project_id": 113,
+                "parent_id": 113
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 3,
+                "name": "FTExplanation 3",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/fineness_explanation/1080p60/sections/FTExplanation_0003.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0114.mp4",
+                "in_project_thumbnail": "thumb_0114.jpg",
+                "in_project_id": 114,
+                "parent_id": 114
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 4,
+                "name": "FTExplanation 4",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/fineness_explanation/1080p60/sections/FTExplanation_0004.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0115.mp4",
+                "in_project_thumbnail": "thumb_0115.jpg",
+                "in_project_id": 115,
+                "parent_id": 115
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 5,
+                "name": "FTExplanation 5",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/fineness_explanation/1080p60/sections/FTExplanation_0005.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0116.mp4",
+                "in_project_thumbnail": "thumb_0116.jpg",
+                "in_project_id": 116,
+                "parent_id": 116
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 6,
+                "name": "FTExplanation 6",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/fineness_explanation/1080p60/sections/FTExplanation_0006.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0117.mp4",
+                "in_project_thumbnail": "thumb_0117.jpg",
+                "in_project_id": 117,
+                "parent_id": 117
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 7,
+                "name": "FTExplanation 7",
+                "type": "skip",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/fineness_explanation/1080p60/sections/FTExplanation_0007.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 3.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0118.mp4",
+                "in_project_thumbnail": "thumb_0118.jpg",
+                "in_project_id": 118,
+                "parent_id": 118
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "STExplanation 0",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/starness_explanation/1080p60/sections/STExplanation_0000.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0119.mp4",
+                "in_project_thumbnail": "thumb_0119.jpg",
+                "in_project_id": 119,
+                "parent_id": 119
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 1,
+                "name": "STExplanation 1",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/starness_explanation/1080p60/sections/STExplanation_0001.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.45,
+                "project_name": "B Exam",
+                "in_project_video": "video_0120.mp4",
+                "in_project_thumbnail": "thumb_0120.jpg",
+                "in_project_id": 120,
+                "parent_id": 120
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 2,
+                "name": "STExplanation 2",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/starness_explanation/1080p60/sections/STExplanation_0002.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 3.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0121.mp4",
+                "in_project_thumbnail": "thumb_0121.jpg",
+                "in_project_id": 121,
+                "parent_id": 121
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 3,
+                "name": "STExplanation 3",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/starness_explanation/1080p60/sections/STExplanation_0003.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0122.mp4",
+                "in_project_thumbnail": "thumb_0122.jpg",
+                "in_project_id": 122,
+                "parent_id": 122
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 4,
+                "name": "STExplanation 4",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/starness_explanation/1080p60/sections/STExplanation_0004.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0123.mp4",
+                "in_project_thumbnail": "thumb_0123.jpg",
+                "in_project_id": 123,
+                "parent_id": 123
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 5,
+                "name": "STExplanation 4",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/starness_explanation/1080p60/sections/STExplanation_0005.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0124.mp4",
+                "in_project_thumbnail": "thumb_0124.jpg",
+                "in_project_id": 124,
+                "parent_id": 124
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 6,
+                "name": "STExplanation 5",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/starness_explanation/1080p60/sections/STExplanation_0006.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.4,
+                "project_name": "B Exam",
+                "in_project_video": "video_0125.mp4",
+                "in_project_thumbnail": "thumb_0125.jpg",
+                "in_project_id": 125,
+                "parent_id": 125
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 7,
+                "name": "STExplanation 6",
+                "type": "skip",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/starness_explanation/1080p60/sections/STExplanation_0007.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0126.mp4",
+                "in_project_thumbnail": "thumb_0126.jpg",
+                "in_project_id": 126,
+                "parent_id": 126
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "IntroSummary 0",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/intro_summary/1080p60/sections/IntroSummary_0000.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0127.mp4",
+                "in_project_thumbnail": "thumb_0127.jpg",
+                "in_project_id": 127,
+                "parent_id": 127
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 1,
+                "name": "IntroSummary 1",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/intro_summary/1080p60/sections/IntroSummary_0001.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0128.mp4",
+                "in_project_thumbnail": "thumb_0128.jpg",
+                "in_project_id": 128,
+                "parent_id": 128
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 2,
+                "name": "IntroSummary 2",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/intro_summary/1080p60/sections/IntroSummary_0002.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0129.mp4",
+                "in_project_thumbnail": "thumb_0129.jpg",
+                "in_project_id": 129,
+                "parent_id": 129
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 3,
+                "name": "IntroSummary 3",
+                "type": "skip",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/intro_summary/1080p60/sections/IntroSummary_0003.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0130.mp4",
+                "in_project_thumbnail": "thumb_0130.jpg",
+                "in_project_id": 130,
+                "parent_id": 130
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 4,
+                "name": "IntroSummary 4",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/intro_summary/1080p60/sections/IntroSummary_0004.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0131.mp4",
+                "in_project_thumbnail": "thumb_0131.jpg",
+                "in_project_id": 131,
+                "parent_id": 131
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 5,
+                "name": "IntroSummary 5",
+                "type": "skip",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/intro_summary/1080p60/sections/IntroSummary_0005.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0132.mp4",
+                "in_project_thumbnail": "thumb_0132.jpg",
+                "in_project_id": 132,
+                "parent_id": 132
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "ComputationalAdvancements 0",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/computational_advancements/1080p60/sections/ComputationalAdvancements_0000.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0133.mp4",
+                "in_project_thumbnail": "thumb_0133.jpg",
+                "in_project_id": 133,
+                "parent_id": 133
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 1,
+                "name": "ComputationalAdvancements 1",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/computational_advancements/1080p60/sections/ComputationalAdvancements_0001.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0134.mp4",
+                "in_project_thumbnail": "thumb_0134.jpg",
+                "in_project_id": 134,
+                "parent_id": 134
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 2,
+                "name": "ComputationalAdvancements 2",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/computational_advancements/1080p60/sections/ComputationalAdvancements_0002.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0135.mp4",
+                "in_project_thumbnail": "thumb_0135.jpg",
+                "in_project_id": 135,
+                "parent_id": 135
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 3,
+                "name": "ComputationalAdvancements 3",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/computational_advancements/1080p60/sections/ComputationalAdvancements_0003.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 3.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0136.mp4",
+                "in_project_thumbnail": "thumb_0136.jpg",
+                "in_project_id": 136,
+                "parent_id": 136
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 4,
+                "name": "ComputationalAdvancements 4",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/computational_advancements/1080p60/sections/ComputationalAdvancements_0004.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0137.mp4",
+                "in_project_thumbnail": "thumb_0137.jpg",
+                "in_project_id": 137,
+                "parent_id": 137
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 5,
+                "name": "ComputationalAdvancements 5",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/computational_advancements/1080p60/sections/ComputationalAdvancements_0005.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.1,
+                "project_name": "B Exam",
+                "in_project_video": "video_0138.mp4",
+                "in_project_thumbnail": "thumb_0138.jpg",
+                "in_project_id": 138,
+                "parent_id": 138
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 6,
+                "name": "ComputationalAdvancements 6",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/computational_advancements/1080p60/sections/ComputationalAdvancements_0006.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0139.mp4",
+                "in_project_thumbnail": "thumb_0139.jpg",
+                "in_project_id": 139,
+                "parent_id": 139
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 7,
+                "name": "ComputationalAdvancements 7",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/computational_advancements/1080p60/sections/ComputationalAdvancements_0007.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0140.mp4",
+                "in_project_thumbnail": "thumb_0140.jpg",
+                "in_project_id": 140,
+                "parent_id": 140
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 8,
+                "name": "ComputationalAdvancements 8",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/computational_advancements/1080p60/sections/ComputationalAdvancements_0008.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.1,
+                "project_name": "B Exam",
+                "in_project_video": "video_0141.mp4",
+                "in_project_thumbnail": "thumb_0141.jpg",
+                "in_project_id": 141,
+                "parent_id": 141
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 9,
+                "name": "ComputationalAdvancements 9",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/computational_advancements/1080p60/sections/ComputationalAdvancements_0009.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0142.mp4",
+                "in_project_thumbnail": "thumb_0142.jpg",
+                "in_project_id": 142,
+                "parent_id": 142
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 10,
+                "name": "ComputationalAdvancements 10",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/computational_advancements/1080p60/sections/ComputationalAdvancements_0010.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0143.mp4",
+                "in_project_thumbnail": "thumb_0143.jpg",
+                "in_project_id": 143,
+                "parent_id": 143
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 11,
+                "name": "ComputationalAdvancements 11",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/computational_advancements/1080p60/sections/ComputationalAdvancements_0011.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0144.mp4",
+                "in_project_thumbnail": "thumb_0144.jpg",
+                "in_project_id": 144,
+                "parent_id": 144
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 12,
+                "name": "ComputationalAdvancements 12",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/computational_advancements/1080p60/sections/ComputationalAdvancements_0012.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0145.mp4",
+                "in_project_thumbnail": "thumb_0145.jpg",
+                "in_project_id": 145,
+                "parent_id": 145
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 13,
+                "name": "ComputationalAdvancements 13",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/computational_advancements/1080p60/sections/ComputationalAdvancements_0013.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0146.mp4",
+                "in_project_thumbnail": "thumb_0146.jpg",
+                "in_project_id": 146,
+                "parent_id": 146
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 14,
+                "name": "ComputationalAdvancements 14",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/computational_advancements/1080p60/sections/ComputationalAdvancements_0014.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0147.mp4",
+                "in_project_thumbnail": "thumb_0147.jpg",
+                "in_project_id": 147,
+                "parent_id": 147
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 15,
+                "name": "ComputationalAdvancements 15",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/computational_advancements/1080p60/sections/ComputationalAdvancements_0015.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0148.mp4",
+                "in_project_thumbnail": "thumb_0148.jpg",
+                "in_project_id": 148,
+                "parent_id": 148
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 16,
+                "name": "ComputationalAdvancements 16",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/computational_advancements/1080p60/sections/ComputationalAdvancements_0016.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0149.mp4",
+                "in_project_thumbnail": "thumb_0149.jpg",
+                "in_project_id": 149,
+                "parent_id": 149
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 17,
+                "name": "ComputationalAdvancements 17",
+                "type": "skip",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/computational_advancements/1080p60/sections/ComputationalAdvancements_0017.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0150.mp4",
+                "in_project_thumbnail": "thumb_0150.jpg",
+                "in_project_id": 150,
+                "parent_id": 150
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "ExploitingRegularity 0",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/exploiting_regularity/1080p60/sections/ExploitingRegularity_0000.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0151.mp4",
+                "in_project_thumbnail": "thumb_0151.jpg",
+                "in_project_id": 151,
+                "parent_id": 151
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 1,
+                "name": "ExploitingRegularity 1",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/exploiting_regularity/1080p60/sections/ExploitingRegularity_0001.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0152.mp4",
+                "in_project_thumbnail": "thumb_0152.jpg",
+                "in_project_id": 152,
+                "parent_id": 152
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 2,
+                "name": "ExploitingRegularity 2",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/exploiting_regularity/1080p60/sections/ExploitingRegularity_0002.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 3.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0153.mp4",
+                "in_project_thumbnail": "thumb_0153.jpg",
+                "in_project_id": 153,
+                "parent_id": 153
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 3,
+                "name": "ExploitingRegularity 3",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/exploiting_regularity/1080p60/sections/ExploitingRegularity_0003.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0154.mp4",
+                "in_project_thumbnail": "thumb_0154.jpg",
+                "in_project_id": 154,
+                "parent_id": 154
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 4,
+                "name": "ExploitingRegularity 4",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/exploiting_regularity/1080p60/sections/ExploitingRegularity_0004.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.3,
+                "project_name": "B Exam",
+                "in_project_video": "video_0155.mp4",
+                "in_project_thumbnail": "thumb_0155.jpg",
+                "in_project_id": 155,
+                "parent_id": 155
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 5,
+                "name": "ExploitingRegularity 5",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/exploiting_regularity/1080p60/sections/ExploitingRegularity_0005.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0156.mp4",
+                "in_project_thumbnail": "thumb_0156.jpg",
+                "in_project_id": 156,
+                "parent_id": 156
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 6,
+                "name": "ExploitingRegularity 6",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/exploiting_regularity/1080p60/sections/ExploitingRegularity_0006.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0157.mp4",
+                "in_project_thumbnail": "thumb_0157.jpg",
+                "in_project_id": 157,
+                "parent_id": 157
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 7,
+                "name": "ExploitingRegularity 7",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/exploiting_regularity/1080p60/sections/ExploitingRegularity_0007.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 3.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0158.mp4",
+                "in_project_thumbnail": "thumb_0158.jpg",
+                "in_project_id": 158,
+                "parent_id": 158
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 8,
+                "name": "ExploitingRegularity 8",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/exploiting_regularity/1080p60/sections/ExploitingRegularity_0008.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0159.mp4",
+                "in_project_thumbnail": "thumb_0159.jpg",
+                "in_project_id": 159,
+                "parent_id": 159
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 9,
+                "name": "ExploitingRegularity 9",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/exploiting_regularity/1080p60/sections/ExploitingRegularity_0009.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 4.5,
+                "project_name": "B Exam",
+                "in_project_video": "video_0160.mp4",
+                "in_project_thumbnail": "thumb_0160.jpg",
+                "in_project_id": 160,
+                "parent_id": 160
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 10,
+                "name": "ExploitingRegularity 10",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/exploiting_regularity/1080p60/sections/ExploitingRegularity_0010.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.1,
+                "project_name": "B Exam",
+                "in_project_video": "video_0161.mp4",
+                "in_project_thumbnail": "thumb_0161.jpg",
+                "in_project_id": 161,
+                "parent_id": 161
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 11,
+                "name": "ExploitingRegularity 11",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/exploiting_regularity/1080p60/sections/ExploitingRegularity_0011.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0162.mp4",
+                "in_project_thumbnail": "thumb_0162.jpg",
+                "in_project_id": 162,
+                "parent_id": 162
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 12,
+                "name": "ExploitingRegularity 12",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/exploiting_regularity/1080p60/sections/ExploitingRegularity_0012.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0163.mp4",
+                "in_project_thumbnail": "thumb_0163.jpg",
+                "in_project_id": 163,
+                "parent_id": 163
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 13,
+                "name": "ExploitingRegularity 13",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/exploiting_regularity/1080p60/sections/ExploitingRegularity_0013.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "465920/7767",
+                "duration": 1.516992,
+                "project_name": "B Exam",
+                "in_project_video": "video_0164.mp4",
+                "in_project_thumbnail": "thumb_0164.jpg",
+                "in_project_id": 164,
+                "parent_id": 164
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 14,
+                "name": "ExploitingRegularity 14",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/exploiting_regularity/1080p60/sections/ExploitingRegularity_0014.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 3.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0165.mp4",
+                "in_project_thumbnail": "thumb_0165.jpg",
+                "in_project_id": 165,
+                "parent_id": 165
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 15,
+                "name": "ExploitingRegularity 15",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/exploiting_regularity/1080p60/sections/ExploitingRegularity_0015.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0166.mp4",
+                "in_project_thumbnail": "thumb_0166.jpg",
+                "in_project_id": 166,
+                "parent_id": 166
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 16,
+                "name": "ExploitingRegularity 16",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/exploiting_regularity/1080p60/sections/ExploitingRegularity_0016.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0167.mp4",
+                "in_project_thumbnail": "thumb_0167.jpg",
+                "in_project_id": 167,
+                "parent_id": 167
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 17,
+                "name": "ExploitingRegularity 17",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/exploiting_regularity/1080p60/sections/ExploitingRegularity_0017.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.1,
+                "project_name": "B Exam",
+                "in_project_video": "video_0168.mp4",
+                "in_project_thumbnail": "thumb_0168.jpg",
+                "in_project_id": 168,
+                "parent_id": 168
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 18,
+                "name": "ExploitingRegularity 18",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/exploiting_regularity/1080p60/sections/ExploitingRegularity_0018.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0169.mp4",
+                "in_project_thumbnail": "thumb_0169.jpg",
+                "in_project_id": 169,
+                "parent_id": 169
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 19,
+                "name": "ExploitingRegularity 19",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/exploiting_regularity/1080p60/sections/ExploitingRegularity_0019.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 3.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0170.mp4",
+                "in_project_thumbnail": "thumb_0170.jpg",
+                "in_project_id": 170,
+                "parent_id": 170
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 20,
+                "name": "ExploitingRegularity 20",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/exploiting_regularity/1080p60/sections/ExploitingRegularity_0020.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0171.mp4",
+                "in_project_thumbnail": "thumb_0171.jpg",
+                "in_project_id": 171,
+                "parent_id": 171
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 21,
+                "name": "ExploitingRegularity 21",
+                "type": "skip",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/exploiting_regularity/1080p60/sections/ExploitingRegularity_0021.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0172.mp4",
+                "in_project_thumbnail": "thumb_0172.jpg",
+                "in_project_id": 172,
+                "parent_id": 172
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "SecondaryFan 0",
+                "type": "skip",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/secondary_fan_init/1080p60/sections/SecondaryFanInit_0000.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0173.mp4",
+                "in_project_thumbnail": "thumb_0173.jpg",
+                "in_project_id": 173,
+                "parent_id": 173
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 1,
+                "name": "SecondaryFan 1",
+                "type": "skip",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/secondary_fan_init/1080p60/sections/SecondaryFanInit_0001.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0174.mp4",
+                "in_project_thumbnail": "thumb_0174.jpg",
+                "in_project_id": 174,
+                "parent_id": 174
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "SecondaryFan 2",
+                "type": "complete_loop",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/secondary_fan_loop/1080p60/sections/SecondaryFanLoop_0000.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 5.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0175.mp4",
+                "in_project_thumbnail": "thumb_0175.jpg",
+                "in_project_id": 175,
+                "parent_id": 175
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "SecondaryFan 3",
+                "type": "skip",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/secondary_fan_end/1080p60/sections/SecondaryFanEnd_0000.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0176.mp4",
+                "in_project_thumbnail": "thumb_0176.jpg",
+                "in_project_id": 176,
+                "parent_id": 176
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "ExploringLandscape 0",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/exploring_landscape/1080p60/sections/ExploringLandscape_0000.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0177.mp4",
+                "in_project_thumbnail": "thumb_0177.jpg",
+                "in_project_id": 177,
+                "parent_id": 177
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 1,
+                "name": "ExploringLandscape 1",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/exploring_landscape/1080p60/sections/ExploringLandscape_0001.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0178.mp4",
+                "in_project_thumbnail": "thumb_0178.jpg",
+                "in_project_id": 178,
+                "parent_id": 178
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 2,
+                "name": "ExploringLandscape 2",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/exploring_landscape/1080p60/sections/ExploringLandscape_0002.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0179.mp4",
+                "in_project_thumbnail": "thumb_0179.jpg",
+                "in_project_id": 179,
+                "parent_id": 179
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 3,
+                "name": "ExploringLandscape 3",
+                "type": "skip",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/exploring_landscape/1080p60/sections/ExploringLandscape_0003.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0180.mp4",
+                "in_project_thumbnail": "thumb_0180.jpg",
+                "in_project_id": 180,
+                "parent_id": 180
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 4,
+                "name": "ExploringLandscape 4",
+                "type": "complete_loop",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/exploring_landscape/1080p60/sections/ExploringLandscape_0004.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 5.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0181.mp4",
+                "in_project_thumbnail": "thumb_0181.jpg",
+                "in_project_id": 181,
+                "parent_id": 181
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 5,
+                "name": "ExploringLandscape 5",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/exploring_landscape/1080p60/sections/ExploringLandscape_0005.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0182.mp4",
+                "in_project_thumbnail": "thumb_0182.jpg",
+                "in_project_id": 182,
+                "parent_id": 182
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 6,
+                "name": "ExploringLandscape 6",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/exploring_landscape/1080p60/sections/ExploringLandscape_0006.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0183.mp4",
+                "in_project_thumbnail": "thumb_0183.jpg",
+                "in_project_id": 183,
+                "parent_id": 183
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 7,
+                "name": "ExploringLandscape 7",
+                "type": "skip",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/exploring_landscape/1080p60/sections/ExploringLandscape_0007.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0184.mp4",
+                "in_project_thumbnail": "thumb_0184.jpg",
+                "in_project_id": 184,
+                "parent_id": 184
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "MirrorSymmetry 0",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/mirror_symmetry/1080p60/sections/MirrorSymmetry_0000.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0185.mp4",
+                "in_project_thumbnail": "thumb_0185.jpg",
+                "in_project_id": 185,
+                "parent_id": 185
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 1,
+                "name": "MirrorSymmetry 1",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/mirror_symmetry/1080p60/sections/MirrorSymmetry_0001.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0186.mp4",
+                "in_project_thumbnail": "thumb_0186.jpg",
+                "in_project_id": 186,
+                "parent_id": 186
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 2,
+                "name": "MirrorSymmetry 2",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/mirror_symmetry/1080p60/sections/MirrorSymmetry_0002.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0187.mp4",
+                "in_project_thumbnail": "thumb_0187.jpg",
+                "in_project_id": 187,
+                "parent_id": 187
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 3,
+                "name": "MirrorSymmetry 3",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/mirror_symmetry/1080p60/sections/MirrorSymmetry_0003.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0188.mp4",
+                "in_project_thumbnail": "thumb_0188.jpg",
+                "in_project_id": 188,
+                "parent_id": 188
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 4,
+                "name": "MirrorSymmetry 4",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/mirror_symmetry/1080p60/sections/MirrorSymmetry_0004.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0189.mp4",
+                "in_project_thumbnail": "thumb_0189.jpg",
+                "in_project_id": 189,
+                "parent_id": 189
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 5,
+                "name": "MirrorSymmetry 5",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/mirror_symmetry/1080p60/sections/MirrorSymmetry_0005.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0190.mp4",
+                "in_project_thumbnail": "thumb_0190.jpg",
+                "in_project_id": 190,
+                "parent_id": 190
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 6,
+                "name": "MirrorSymmetry 6",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/mirror_symmetry/1080p60/sections/MirrorSymmetry_0006.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0191.mp4",
+                "in_project_thumbnail": "thumb_0191.jpg",
+                "in_project_id": 191,
+                "parent_id": 191
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 7,
+                "name": "MirrorSymmetry 7",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/mirror_symmetry/1080p60/sections/MirrorSymmetry_0007.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0192.mp4",
+                "in_project_thumbnail": "thumb_0192.jpg",
+                "in_project_id": 192,
+                "parent_id": 192
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 8,
+                "name": "MirrorSymmetry 8",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/mirror_symmetry/1080p60/sections/MirrorSymmetry_0008.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0193.mp4",
+                "in_project_thumbnail": "thumb_0193.jpg",
+                "in_project_id": 193,
+                "parent_id": 193
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 9,
+                "name": "MirrorSymmetry 9",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/mirror_symmetry/1080p60/sections/MirrorSymmetry_0009.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0194.mp4",
+                "in_project_thumbnail": "thumb_0194.jpg",
+                "in_project_id": 194,
+                "parent_id": 194
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 10,
+                "name": "MirrorSymmetry 10",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/mirror_symmetry/1080p60/sections/MirrorSymmetry_0010.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0195.mp4",
+                "in_project_thumbnail": "thumb_0195.jpg",
+                "in_project_id": 195,
+                "parent_id": 195
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 11,
+                "name": "MirrorSymmetry 11",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/mirror_symmetry/1080p60/sections/MirrorSymmetry_0011.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0196.mp4",
+                "in_project_thumbnail": "thumb_0196.jpg",
+                "in_project_id": 196,
+                "parent_id": 196
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 12,
+                "name": "MirrorSymmetry 12",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/mirror_symmetry/1080p60/sections/MirrorSymmetry_0012.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0197.mp4",
+                "in_project_thumbnail": "thumb_0197.jpg",
+                "in_project_id": 197,
+                "parent_id": 197
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 13,
+                "name": "MirrorSymmetry 13",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/mirror_symmetry/1080p60/sections/MirrorSymmetry_0013.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0198.mp4",
+                "in_project_thumbnail": "thumb_0198.jpg",
+                "in_project_id": 198,
+                "parent_id": 198
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 14,
+                "name": "MirrorSymmetry 14",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/mirror_symmetry/1080p60/sections/MirrorSymmetry_0014.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0199.mp4",
+                "in_project_thumbnail": "thumb_0199.jpg",
+                "in_project_id": 199,
+                "parent_id": 199
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 15,
+                "name": "MirrorSymmetry 15",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/mirror_symmetry/1080p60/sections/MirrorSymmetry_0015.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0200.mp4",
+                "in_project_thumbnail": "thumb_0200.jpg",
+                "in_project_id": 200,
+                "parent_id": 200
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 16,
+                "name": "MirrorSymmetry 16",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/mirror_symmetry/1080p60/sections/MirrorSymmetry_0016.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0201.mp4",
+                "in_project_thumbnail": "thumb_0201.jpg",
+                "in_project_id": 201,
+                "parent_id": 201
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 17,
+                "name": "MirrorSymmetry 17",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/mirror_symmetry/1080p60/sections/MirrorSymmetry_0017.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0202.mp4",
+                "in_project_thumbnail": "thumb_0202.jpg",
+                "in_project_id": 202,
+                "parent_id": 202
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 18,
+                "name": "MirrorSymmetry 18",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/mirror_symmetry/1080p60/sections/MirrorSymmetry_0018.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0203.mp4",
+                "in_project_thumbnail": "thumb_0203.jpg",
+                "in_project_id": 203,
+                "parent_id": 203
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 19,
+                "name": "MirrorSymmetry 19",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/mirror_symmetry/1080p60/sections/MirrorSymmetry_0019.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0204.mp4",
+                "in_project_thumbnail": "thumb_0204.jpg",
+                "in_project_id": 204,
+                "parent_id": 204
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 20,
+                "name": "MirrorSymmetry 20",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/mirror_symmetry/1080p60/sections/MirrorSymmetry_0020.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0205.mp4",
+                "in_project_thumbnail": "thumb_0205.jpg",
+                "in_project_id": 205,
+                "parent_id": 205
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 21,
+                "name": "MirrorSymmetry 21",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/mirror_symmetry/1080p60/sections/MirrorSymmetry_0021.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0206.mp4",
+                "in_project_thumbnail": "thumb_0206.jpg",
+                "in_project_id": 206,
+                "parent_id": 206
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 22,
+                "name": "MirrorSymmetry 22",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/mirror_symmetry/1080p60/sections/MirrorSymmetry_0022.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0207.mp4",
+                "in_project_thumbnail": "thumb_0207.jpg",
+                "in_project_id": 207,
+                "parent_id": 207
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 23,
+                "name": "MirrorSymmetry 23",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/mirror_symmetry/1080p60/sections/MirrorSymmetry_0023.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0208.mp4",
+                "in_project_thumbnail": "thumb_0208.jpg",
+                "in_project_id": 208,
+                "parent_id": 208
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 24,
+                "name": "MirrorSymmetry 24",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/mirror_symmetry/1080p60/sections/MirrorSymmetry_0024.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0209.mp4",
+                "in_project_thumbnail": "thumb_0209.jpg",
+                "in_project_id": 209,
+                "parent_id": 209
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 25,
+                "name": "MirrorSymmetry 25",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/mirror_symmetry/1080p60/sections/MirrorSymmetry_0025.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0210.mp4",
+                "in_project_thumbnail": "thumb_0210.jpg",
+                "in_project_id": 210,
+                "parent_id": 210
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 26,
+                "name": "MirrorSymmetry 26",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/mirror_symmetry/1080p60/sections/MirrorSymmetry_0026.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0211.mp4",
+                "in_project_thumbnail": "thumb_0211.jpg",
+                "in_project_id": 211,
+                "parent_id": 211
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 27,
+                "name": "MirrorSymmetry 27",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/mirror_symmetry/1080p60/sections/MirrorSymmetry_0027.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0212.mp4",
+                "in_project_thumbnail": "thumb_0212.jpg",
+                "in_project_id": 212,
+                "parent_id": 212
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 28,
+                "name": "MirrorSymmetry 28",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/mirror_symmetry/1080p60/sections/MirrorSymmetry_0028.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0213.mp4",
+                "in_project_thumbnail": "thumb_0213.jpg",
+                "in_project_id": 213,
+                "parent_id": 213
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 29,
+                "name": "MirrorSymmetry 29",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/mirror_symmetry/1080p60/sections/MirrorSymmetry_0029.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.1,
+                "project_name": "B Exam",
+                "in_project_video": "video_0214.mp4",
+                "in_project_thumbnail": "thumb_0214.jpg",
+                "in_project_id": 214,
+                "parent_id": 214
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 30,
+                "name": "MirrorSymmetry 30",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/mirror_symmetry/1080p60/sections/MirrorSymmetry_0030.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0215.mp4",
+                "in_project_thumbnail": "thumb_0215.jpg",
+                "in_project_id": 215,
+                "parent_id": 215
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 31,
+                "name": "MirrorSymmetry 31",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/mirror_symmetry/1080p60/sections/MirrorSymmetry_0031.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0216.mp4",
+                "in_project_thumbnail": "thumb_0216.jpg",
+                "in_project_id": 216,
+                "parent_id": 216
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 32,
+                "name": "MirrorSymmetry 32",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/mirror_symmetry/1080p60/sections/MirrorSymmetry_0032.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0217.mp4",
+                "in_project_thumbnail": "thumb_0217.jpg",
+                "in_project_id": 217,
+                "parent_id": 217
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 33,
+                "name": "MirrorSymmetry 33",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/mirror_symmetry/1080p60/sections/MirrorSymmetry_0033.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0218.mp4",
+                "in_project_thumbnail": "thumb_0218.jpg",
+                "in_project_id": 218,
+                "parent_id": 218
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 34,
+                "name": "MirrorSymmetry 34",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/mirror_symmetry/1080p60/sections/MirrorSymmetry_0034.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0219.mp4",
+                "in_project_thumbnail": "thumb_0219.jpg",
+                "in_project_id": 219,
+                "parent_id": 219
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 35,
+                "name": "MirrorSymmetry 35",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/mirror_symmetry/1080p60/sections/MirrorSymmetry_0035.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0220.mp4",
+                "in_project_thumbnail": "thumb_0220.jpg",
+                "in_project_id": 220,
+                "parent_id": 220
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 36,
+                "name": "MirrorSymmetry 36",
+                "type": "skip",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/mirror_symmetry/1080p60/sections/MirrorSymmetry_0036.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0221.mp4",
+                "in_project_thumbnail": "thumb_0221.jpg",
+                "in_project_id": 221,
+                "parent_id": 221
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "AdSVacua 0",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/ads_vacua/1080p60/sections/AdSVacua_0000.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0222.mp4",
+                "in_project_thumbnail": "thumb_0222.jpg",
+                "in_project_id": 222,
+                "parent_id": 222
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 1,
+                "name": "AdSVacua 1",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/ads_vacua/1080p60/sections/AdSVacua_0001.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0223.mp4",
+                "in_project_thumbnail": "thumb_0223.jpg",
+                "in_project_id": 223,
+                "parent_id": 223
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 2,
+                "name": "AdSVacua 2",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/ads_vacua/1080p60/sections/AdSVacua_0002.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 3.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0224.mp4",
+                "in_project_thumbnail": "thumb_0224.jpg",
+                "in_project_id": 224,
+                "parent_id": 224
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 3,
+                "name": "AdSVacua 3",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/ads_vacua/1080p60/sections/AdSVacua_0003.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0225.mp4",
+                "in_project_thumbnail": "thumb_0225.jpg",
+                "in_project_id": 225,
+                "parent_id": 225
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 4,
+                "name": "AdSVacua 4",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/ads_vacua/1080p60/sections/AdSVacua_0004.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0226.mp4",
+                "in_project_thumbnail": "thumb_0226.jpg",
+                "in_project_id": 226,
+                "parent_id": 226
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 5,
+                "name": "AdSVacua 5",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/ads_vacua/1080p60/sections/AdSVacua_0005.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0227.mp4",
+                "in_project_thumbnail": "thumb_0227.jpg",
+                "in_project_id": 227,
+                "parent_id": 227
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 6,
+                "name": "AdSVacua 6",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/ads_vacua/1080p60/sections/AdSVacua_0006.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0228.mp4",
+                "in_project_thumbnail": "thumb_0228.jpg",
+                "in_project_id": 228,
+                "parent_id": 228
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 7,
+                "name": "AdSVacua 7",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/ads_vacua/1080p60/sections/AdSVacua_0007.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.1,
+                "project_name": "B Exam",
+                "in_project_video": "video_0229.mp4",
+                "in_project_thumbnail": "thumb_0229.jpg",
+                "in_project_id": 229,
+                "parent_id": 229
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 8,
+                "name": "AdSVacua 8",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/ads_vacua/1080p60/sections/AdSVacua_0008.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.45,
+                "project_name": "B Exam",
+                "in_project_video": "video_0230.mp4",
+                "in_project_thumbnail": "thumb_0230.jpg",
+                "in_project_id": 230,
+                "parent_id": 230
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 9,
+                "name": "AdSVacua 9",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/ads_vacua/1080p60/sections/AdSVacua_0009.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.45,
+                "project_name": "B Exam",
+                "in_project_video": "video_0231.mp4",
+                "in_project_thumbnail": "thumb_0231.jpg",
+                "in_project_id": 231,
+                "parent_id": 231
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 10,
+                "name": "AdSVacua 10",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/ads_vacua/1080p60/sections/AdSVacua_0010.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 10.95,
+                "project_name": "B Exam",
+                "in_project_video": "video_0232.mp4",
+                "in_project_thumbnail": "thumb_0232.jpg",
+                "in_project_id": 232,
+                "parent_id": 232
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 11,
+                "name": "AdSVacua 11",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/ads_vacua/1080p60/sections/AdSVacua_0011.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 5.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0233.mp4",
+                "in_project_thumbnail": "thumb_0233.jpg",
+                "in_project_id": 233,
+                "parent_id": 233
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 12,
+                "name": "AdSVacua 12",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/ads_vacua/1080p60/sections/AdSVacua_0012.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0234.mp4",
+                "in_project_thumbnail": "thumb_0234.jpg",
+                "in_project_id": 234,
+                "parent_id": 234
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 13,
+                "name": "AdSVacua 13",
+                "type": "skip",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/ads_vacua/1080p60/sections/AdSVacua_0013.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0235.mp4",
+                "in_project_thumbnail": "thumb_0235.jpg",
+                "in_project_id": 235,
+                "parent_id": 235
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "Conclusions 0",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/conclusions/1080p60/sections/Conclusions_0000.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0236.mp4",
+                "in_project_thumbnail": "thumb_0236.jpg",
+                "in_project_id": 236,
+                "parent_id": 236
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 1,
+                "name": "Conclusions 1",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/conclusions/1080p60/sections/Conclusions_0001.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0237.mp4",
+                "in_project_thumbnail": "thumb_0237.jpg",
+                "in_project_id": 237,
+                "parent_id": 237
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 2,
+                "name": "Conclusions 2",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/conclusions/1080p60/sections/Conclusions_0002.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0238.mp4",
+                "in_project_thumbnail": "thumb_0238.jpg",
+                "in_project_id": 238,
+                "parent_id": 238
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 3,
+                "name": "Conclusions 3",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/conclusions/1080p60/sections/Conclusions_0003.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0239.mp4",
+                "in_project_thumbnail": "thumb_0239.jpg",
+                "in_project_id": 239,
+                "parent_id": 239
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 4,
+                "name": "Conclusions 4",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/conclusions/1080p60/sections/Conclusions_0004.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0240.mp4",
+                "in_project_thumbnail": "thumb_0240.jpg",
+                "in_project_id": 240,
+                "parent_id": 240
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 5,
+                "name": "Conclusions 5",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/conclusions/1080p60/sections/Conclusions_0005.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0241.mp4",
+                "in_project_thumbnail": "thumb_0241.jpg",
+                "in_project_id": 241,
+                "parent_id": 241
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 6,
+                "name": "Conclusions 6",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/conclusions/1080p60/sections/Conclusions_0006.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0242.mp4",
+                "in_project_thumbnail": "thumb_0242.jpg",
+                "in_project_id": 242,
+                "parent_id": 242
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 7,
+                "name": "Conclusions 7",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/conclusions/1080p60/sections/Conclusions_0007.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0243.mp4",
+                "in_project_thumbnail": "thumb_0243.jpg",
+                "in_project_id": 243,
+                "parent_id": 243
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 8,
+                "name": "Conclusions 8",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/conclusions/1080p60/sections/Conclusions_0008.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0244.mp4",
+                "in_project_thumbnail": "thumb_0244.jpg",
+                "in_project_id": 244,
+                "parent_id": 244
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 9,
+                "name": "Conclusions 9",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/conclusions/1080p60/sections/Conclusions_0009.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0245.mp4",
+                "in_project_thumbnail": "thumb_0245.jpg",
+                "in_project_id": 245,
+                "parent_id": 245
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 10,
+                "name": "Conclusions 10",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/conclusions/1080p60/sections/Conclusions_0010.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0246.mp4",
+                "in_project_thumbnail": "thumb_0246.jpg",
+                "in_project_id": 246,
+                "parent_id": 246
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 11,
+                "name": "Conclusions 11",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/conclusions/1080p60/sections/Conclusions_0011.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0247.mp4",
+                "in_project_thumbnail": "thumb_0247.jpg",
+                "in_project_id": 247,
+                "parent_id": 247
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 12,
+                "name": "Conclusions 12",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/conclusions/1080p60/sections/Conclusions_0012.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0248.mp4",
+                "in_project_thumbnail": "thumb_0248.jpg",
+                "in_project_id": 248,
+                "parent_id": 248
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 13,
+                "name": "Conclusions 13",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/conclusions/1080p60/sections/Conclusions_0013.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "B Exam",
+                "in_project_video": "video_0249.mp4",
+                "in_project_thumbnail": "thumb_0249.jpg",
+                "in_project_id": 249,
+                "parent_id": 249
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 14,
+                "name": "Conclusions 14",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/manim/manim/media/videos/conclusions/1080p60/sections/Conclusions_0014.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.1,
+                "project_name": "B Exam",
+                "in_project_video": "video_0250.mp4",
+                "in_project_thumbnail": "thumb_0250.jpg",
+                "in_project_id": 250,
+                "parent_id": 250
+            }
+        ]
+    }
+]
