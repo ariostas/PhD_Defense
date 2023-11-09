@@ -2,6 +2,8 @@
 
 This is the source code for the presentation I made for my PhD defense. I used [Manim](https://www.manim.community/) to make the animations, and I put them together into slides using [Manim Editor](https://docs.editor.manim.community/).
 
+The final product of this code can be found at [this page](https://ariostas.github.io/PhD_Defense/).
+
 This code was written in only a couple of weeks, so it is far from ideal and the quality is not representative of my work. It is also not very user-friendly, but I have included a rough guide for how to set everything up. This repository is mainly meant to be used as an example gallery for people who are starting to use Manim.
 
 ## Generating the slides
